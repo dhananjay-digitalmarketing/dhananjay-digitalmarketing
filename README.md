@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🚀 Dhananjay Waghmare
 
-<!--
-**dhananjay-digitalmarketing/dhananjay-digitalmarketing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Marketing | SEO | Paid Ads | Content Strategy
 
-Here are some ideas to get you started:
+I build performance-driven marketing strategies and document my work publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Do
+
+* SEO Audits & Keyword Research
+* Google Ads Campaign Planning
+* Meta Ads Strategy
+* Social Media Content Planning
+* Conversion-Focused Content Writing
+
+---
+
+## 📊 Live Projects
+
+* 🔎 SEO Case Studies
+* 📱 Social Media Growth Strategies
+* 💰 Google Ads Campaign Blueprints
+* 📝 Content Writing Samples
+
+(Explore my repositories below 👇)
+
+---
+
+## 🛠 Tools & Platforms
+
+Google Analytics | Search Console | Meta Ads Manager | Canva | Ubersuggest | ChatGPT
+
+---
+
+## 📈 Currently Learning
+
+Advanced PPC Optimization
+Landing Page Conversion Strategy
+Email Marketing Automation
+
+---
+
+## 📬 Connect With Me
+
+LinkedIn:   https://www.linkedin.com/in/dhananjay-waghmare/
+Email: waghmaredr379@gmail.com
+
+---
+
+⭐ I believe in learning in public & building real proof of work.
